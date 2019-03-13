@@ -1,0 +1,6 @@
+subject: -16
+ team1: Celtics
+ team2: Clippers
+ Differential: 85 vs. 101
+********went into if msg != CheckMsg block sendmail********
+msg: 

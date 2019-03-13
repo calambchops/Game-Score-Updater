@@ -1,0 +1,335 @@
+subject: 10
+ team1: Spurs
+ team2: Mavericks
+ Differential: 34 vs. 24
+********went into if msg != CheckMsg block sendmail********
+msg:  up by at least 10 pts 
+CheckMsg: null*********************************************Outside Try
+GameIndex2: 2
+msg:  up by at least 10 pts 
+CheckMsg:  up by at least 10 pts 
+
+_________________________________________
+
+subject: 10
+ team1: Spurs
+ team2: Mavericks
+ Differential: 34 vs. 24
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  up by at least 10 pts 
+CheckMsg:  up by at least 10 pts 
+
+_________________________________________
+
+subject: 10
+ team1: Spurs
+ team2: Mavericks
+ Differential: 34 vs. 24
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  up by at least 10 pts 
+CheckMsg:  up by at least 10 pts 
+
+_________________________________________
+
+subject: 10
+ team1: Spurs
+ team2: Mavericks
+ Differential: 34 vs. 24
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  up by at least 10 pts 
+CheckMsg:  up by at least 10 pts 
+
+_________________________________________
+
+subject: 10
+ team1: Spurs
+ team2: Mavericks
+ Differential: 34 vs. 24
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  up by at least 10 pts 
+CheckMsg:  up by at least 10 pts 
+
+_________________________________________
+
+subject: 10
+ team1: Spurs
+ team2: Mavericks
+ Differential: 34 vs. 24
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  up by at least 10 pts 
+CheckMsg:  up by at least 10 pts 
+
+_________________________________________
+
+subject: 10
+ team1: Spurs
+ team2: Mavericks
+ Differential: 34 vs. 24
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  up by at least 10 pts 
+CheckMsg:  up by at least 10 pts 
+
+_________________________________________
+
+subject: 10
+ team1: Spurs
+ team2: Mavericks
+ Differential: 34 vs. 24
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  up by at least 10 pts 
+CheckMsg:  up by at least 10 pts 
+
+_________________________________________
+
+subject: 10
+ team1: Spurs
+ team2: Mavericks
+ Differential: 34 vs. 24
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  up by at least 10 pts 
+CheckMsg:  up by at least 10 pts 
+
+_________________________________________
+
+subject: 10
+ team1: Spurs
+ team2: Mavericks
+ Differential: 34 vs. 24
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  up by at least 10 pts 
+CheckMsg:  up by at least 10 pts 
+
+_________________________________________
+
+subject: 10
+ team1: Spurs
+ team2: Mavericks
+ Differential: 34 vs. 24
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  up by at least 10 pts 
+CheckMsg:  up by at least 10 pts 
+
+_________________________________________
+
+subject: 10
+ team1: Spurs
+ team2: Mavericks
+ Differential: 34 vs. 24
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  up by at least 10 pts 
+CheckMsg:  up by at least 10 pts 
+
+_________________________________________
+
+subject: 10
+ team1: Spurs
+ team2: Mavericks
+ Differential: 34 vs. 24
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  up by at least 10 pts 
+CheckMsg:  up by at least 10 pts 
+
+_________________________________________
+
+subject: 10
+ team1: Spurs
+ team2: Mavericks
+ Differential: 34 vs. 24
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  up by at least 10 pts 
+CheckMsg:  up by at least 10 pts 
+
+_________________________________________
+
+subject: 10
+ team1: Spurs
+ team2: Mavericks
+ Differential: 34 vs. 24
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  up by at least 10 pts 
+CheckMsg:  up by at least 10 pts 
+
+_________________________________________
+
+subject: 10
+ team1: Spurs
+ team2: Mavericks
+ Differential: 34 vs. 24
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  up by at least 10 pts 
+CheckMsg:  up by at least 10 pts 
+
+_________________________________________
+
+subject: 10
+ team1: Spurs
+ team2: Mavericks
+ Differential: 34 vs. 24
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  up by at least 10 pts 
+CheckMsg:  up by at least 10 pts 
+
+_________________________________________
+
+subject: 10
+ team1: Spurs
+ team2: Mavericks
+ Differential: 34 vs. 24
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  up by at least 10 pts 
+CheckMsg:  up by at least 10 pts 
+
+_________________________________________
+
+subject: 10
+ team1: Spurs
+ team2: Mavericks
+ Differential: 34 vs. 24
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  up by at least 10 pts 
+CheckMsg:  up by at least 10 pts 
+
+_________________________________________
+
+subject: 10
+ team1: Spurs
+ team2: Mavericks
+ Differential: 34 vs. 24
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  up by at least 10 pts 
+CheckMsg:  up by at least 10 pts 
+
+_________________________________________
+
+subject: 12
+ team1: Spurs
+ team2: Mavericks
+ Differential: 36 vs. 24
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  up by at least 10 pts 
+CheckMsg:  up by at least 10 pts 
+
+_________________________________________
+
+subject: 12
+ team1: Spurs
+ team2: Mavericks
+ Differential: 36 vs. 24
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  up by at least 10 pts 
+CheckMsg:  up by at least 10 pts 
+
+_________________________________________
+
+subject: 12
+ team1: Spurs
+ team2: Mavericks
+ Differential: 36 vs. 24
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  up by at least 10 pts 
+CheckMsg:  up by at least 10 pts 
+
+_________________________________________
+
+subject: 12
+ team1: Spurs
+ team2: Mavericks
+ Differential: 36 vs. 24
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  up by at least 10 pts 
+CheckMsg:  up by at least 10 pts 
+
+_________________________________________
+

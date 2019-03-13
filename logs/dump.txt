@@ -1,0 +1,127 @@
+#C:\Python37\python.exe C:\Python37\Scripts\prog\Game-Score-Updater\GameScoreUpdater.py
+# -*- coding:utf-8 -*-
+import requests
+import smtplib
+import sys
+import time
+import Dictionary
+from bs4 import BeautifulSoup
+
+
+server = smtplib.SMTP( "smtp.gmail.com", 587 )
+server.starttls()
+ChosenTeam = "Spurs" #selected team here
+server.login( 'calambchops@gmail.com', 'thanksgiving1' ) #email user/pass here
+website = 'https://www.cbssports.com/nba/scoreboard/'
+
+
+def request(website):
+	try:
+		read = requests.get(website, stream = True, timeout = None)
+		soup = BeautifulSoup(read.text, 'html.parser')
+		results = soup.find_all(attrs={'class': 'ingame'})
+		return results
+	except requests.ConnectionError:
+		pass	
+	# except IndexError:
+		# pass
+
+
+def parse(Results,GameIndex,CheckMsg,msg):
+#	file = open("C:\\Python37\\Scripts\\prog\\Game-Score-Updater\\logs\\testfile.txt","w") 
+	results = Results
+	LengthStatus = len(results)	
+	print(LengthStatus)
+	if LengthStatus == 0:
+		print("No current games")
+		return null
+	else:
+		while LengthStatus > 0:
+			try:
+				TempResults1 = results[GameIndex]
+				TempResults2 = TempResults1
+				LengthTeam = len(TempResults1.find_all("a", string = ChosenTeam))
+			except IndexError:
+				pass
+			if(LengthTeam == 1):
+				ProgressTableResults = TempResults2.find_all('div', attrs={'class':'in-progress-table'})
+				TdResults = ProgressTableResults[0]	
+				TdFinalResults = TdResults.find_all('td')							
+				Team1 = str(TdFinalResults[0].text)
+				Team1Cleaned = Team1.strip().replace(' ', '').split()			
+				Team2 = str(TdFinalResults[6].text)
+				Team2Cleaned = Team2.strip().replace(' ', '').split()				
+				Team1Score = int(TdFinalResults[5].text)		
+				Team2Score = int(TdFinalResults[11].text)				
+				if Team1Cleaned[0] == ChosenTeam:
+					Differential = Team1Score - Team2Score
+					Subject = str(Differential)
+					Team = Team1Cleaned[0]
+				elif Team2Cleaned[0] == ChosenTeam:
+					Differential = Team2Score - Team1Score
+					Subject = str(Differential)
+					Team = Team2Cleaned[0]	
+				
+				# file.write("subject: ")
+				# file.write(Subject)
+				# file.write("\n team1: ")
+				# file.write(Team1Cleaned[0])
+				# file.write("\n team2: ")
+				# file.write(Team2Cleaned[0])
+				# file.write("\n Differential: ")
+				# file.write(str(Team1Score))
+				# file.write(" vs. ")
+				# file.write(str(Team2Score))
+				# file.write("\n")
+				
+				if not(Differential > 30 or Differential < -30):						
+					msg = Dictionary.Number[Subject]()
+					if msg != CheckMsg:
+						print(msg)
+						# try:
+						server.sendmail('', '9166623460@vzwpix.com', msg.encode("utf-8"))
+						# file.write("********went into if msg != CheckMsg block sendmail********\n")
+						# file.write("msg: ")
+						# file.write(msg)
+						# file.write("\nCheckMsg: ")
+						# file.write(CheckMsg)
+						# file.write("*********************************************")
+						CheckMsg = msg
+						# except smtplib.SMTPSenderRefused:
+							# pass
+						# except smtplib.SMTPException:
+							# pass
+					else:
+						print("no updates")
+						# file.write("____________\n no updates \n____________\n")
+				try:
+					read = requests.get('https://www.cbssports.com/nba/scoreboard/', stream = True, timeout = None)
+					soup = BeautifulSoup(read.text, 'html.parser')
+					results = soup.find_all(attrs={'class': 'ingame'})
+					LengthStatus = len(results)	
+
+					# file.write("Outside Try")
+					# file.write("\nGameIndex2: ")
+					# file.write(str(GameIndex))
+					# file.write("\nmsg: ")
+					# file.write(msg)
+					# file.write("\nCheckMsg: ")
+					# file.write(CheckMsg)
+					# file.write("\n\n_________________________________________\n\n")
+					TempResults1 = results[GameIndex]
+					TempResults2 = TempResults1
+				#	time.sleep(20)
+				except requests.ConnectionError:
+					pass	
+				except IndexError:
+					continue
+			GameIndex += 1 
+			if GameIndex == LengthStatus:
+				GameIndex = 0
+#try:
+while True:
+	Results = request(website)
+	parse(Results, 0,"null","")
+	time.sleep(20)
+# except KeyboardInterrupt:
+	# print("Program Terminated")

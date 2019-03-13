@@ -1,0 +1,236 @@
+subject: -4
+ team1: Heat
+ team2: Nuggets
+ Differential: 57 vs. 61
+********went into if msg != CheckMsg block sendmail********
+msg: Heat +/- 4 pts, it's close 
+CheckMsg: null*********************************************Outside Try
+GameIndex22
+msg: Heat +/- 4 pts, it's close 
+CheckMsg: Heat +/- 4 pts, it's close 
+
+_________________________________________
+
+subject: -4
+ team1: Heat
+ team2: Nuggets
+ Differential: 57 vs. 61
+____________
+ no updates 
+____________
+Outside Try
+GameIndex22
+msg: Heat +/- 4 pts, it's close 
+CheckMsg: Heat +/- 4 pts, it's close 
+
+_________________________________________
+
+subject: -4
+ team1: Heat
+ team2: Nuggets
+ Differential: 57 vs. 61
+____________
+ no updates 
+____________
+Outside Try
+GameIndex22
+msg: Heat +/- 4 pts, it's close 
+CheckMsg: Heat +/- 4 pts, it's close 
+
+_________________________________________
+
+subject: -4
+ team1: Heat
+ team2: Nuggets
+ Differential: 57 vs. 61
+____________
+ no updates 
+____________
+Outside Try
+GameIndex22
+msg: Heat +/- 4 pts, it's close 
+CheckMsg: Heat +/- 4 pts, it's close 
+
+_________________________________________
+
+subject: -4
+ team1: Heat
+ team2: Nuggets
+ Differential: 57 vs. 61
+____________
+ no updates 
+____________
+Outside Try
+GameIndex22
+msg: Heat +/- 4 pts, it's close 
+CheckMsg: Heat +/- 4 pts, it's close 
+
+_________________________________________
+
+subject: -4
+ team1: Heat
+ team2: Nuggets
+ Differential: 57 vs. 61
+____________
+ no updates 
+____________
+Outside Try
+GameIndex22
+msg: Heat +/- 4 pts, it's close 
+CheckMsg: Heat +/- 4 pts, it's close 
+
+_________________________________________
+
+subject: -4
+ team1: Heat
+ team2: Nuggets
+ Differential: 57 vs. 61
+____________
+ no updates 
+____________
+Outside Try
+GameIndex22
+msg: Heat +/- 4 pts, it's close 
+CheckMsg: Heat +/- 4 pts, it's close 
+
+_________________________________________
+
+subject: -4
+ team1: Heat
+ team2: Nuggets
+ Differential: 57 vs. 61
+____________
+ no updates 
+____________
+Outside Try
+GameIndex22
+msg: Heat +/- 4 pts, it's close 
+CheckMsg: Heat +/- 4 pts, it's close 
+
+_________________________________________
+
+subject: -4
+ team1: Heat
+ team2: Nuggets
+ Differential: 57 vs. 61
+____________
+ no updates 
+____________
+Outside Try
+GameIndex22
+msg: Heat +/- 4 pts, it's close 
+CheckMsg: Heat +/- 4 pts, it's close 
+
+_________________________________________
+
+subject: -4
+ team1: Heat
+ team2: Nuggets
+ Differential: 57 vs. 61
+____________
+ no updates 
+____________
+Outside Try
+GameIndex22
+msg: Heat +/- 4 pts, it's close 
+CheckMsg: Heat +/- 4 pts, it's close 
+
+_________________________________________
+
+subject: -4
+ team1: Heat
+ team2: Nuggets
+ Differential: 57 vs. 61
+____________
+ no updates 
+____________
+Outside Try
+GameIndex22
+msg: Heat +/- 4 pts, it's close 
+CheckMsg: Heat +/- 4 pts, it's close 
+
+_________________________________________
+
+subject: -4
+ team1: Heat
+ team2: Nuggets
+ Differential: 57 vs. 61
+____________
+ no updates 
+____________
+Outside Try
+GameIndex22
+msg: Heat +/- 4 pts, it's close 
+CheckMsg: Heat +/- 4 pts, it's close 
+
+_________________________________________
+
+subject: -4
+ team1: Heat
+ team2: Nuggets
+ Differential: 57 vs. 61
+____________
+ no updates 
+____________
+Outside Try
+GameIndex22
+msg: Heat +/- 4 pts, it's close 
+CheckMsg: Heat +/- 4 pts, it's close 
+
+_________________________________________
+
+subject: -6
+ team1: Heat
+ team2: Nuggets
+ Differential: 57 vs. 63
+********went into if msg != CheckMsg block sendmail********
+msg: Heat down by at least 5 pts 
+CheckMsg: Heat +/- 4 pts, it's close *********************************************Outside Try
+GameIndex22
+msg: Heat down by at least 5 pts 
+CheckMsg: Heat down by at least 5 pts 
+
+_________________________________________
+
+subject: -6
+ team1: Heat
+ team2: Nuggets
+ Differential: 57 vs. 63
+____________
+ no updates 
+____________
+Outside Try
+GameIndex22
+msg: Heat down by at least 5 pts 
+CheckMsg: Heat down by at least 5 pts 
+
+_________________________________________
+
+subject: -6
+ team1: Heat
+ team2: Nuggets
+ Differential: 57 vs. 63
+____________
+ no updates 
+____________
+Outside Try
+GameIndex22
+msg: Heat down by at least 5 pts 
+CheckMsg: Heat down by at least 5 pts 
+
+_________________________________________
+
+subject: -6
+ team1: Heat
+ team2: Nuggets
+ Differential: 57 vs. 63
+____________
+ no updates 
+____________
+Outside Try
+GameIndex22
+msg: Heat down by at least 5 pts 
+CheckMsg: Heat down by at least 5 pts 
+
+_________________________________________
+

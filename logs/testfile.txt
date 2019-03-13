@@ -1,0 +1,13 @@
+subject: 11
+ team1: Spurs
+ team2: Mavericks
+ Differential: 42 vs. 31
+********went into if msg != CheckMsg block sendmail********
+msg:  up by at least 10 pts 
+CheckMsg: null*********************************************Outside Try
+GameIndex2: 2
+msg:  up by at least 10 pts 
+CheckMsg:  up by at least 10 pts 
+
+_________________________________________
+

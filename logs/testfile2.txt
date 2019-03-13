@@ -1,0 +1,251 @@
+subject: -13
+ team1: Celtics
+ team2: Clippers
+ Differential: 56 vs. 69
+********went into if msg != CheckMsg block sendmail********
+msg: down by at least 10 pts 
+CheckMsg: null*********************************************Outside Try
+GameIndex2: 0
+msg: down by at least 10 pts 
+CheckMsg: down by at least 10 pts 
+
+_________________________________________
+
+subject: -13
+ team1: Celtics
+ team2: Clippers
+ Differential: 56 vs. 69
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 0
+msg: down by at least 10 pts 
+CheckMsg: down by at least 10 pts 
+
+_________________________________________
+
+subject: -13
+ team1: Celtics
+ team2: Clippers
+ Differential: 56 vs. 69
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 0
+msg: down by at least 10 pts 
+CheckMsg: down by at least 10 pts 
+
+_________________________________________
+
+subject: -13
+ team1: Celtics
+ team2: Clippers
+ Differential: 56 vs. 69
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 0
+msg: down by at least 10 pts 
+CheckMsg: down by at least 10 pts 
+
+_________________________________________
+
+subject: -13
+ team1: Celtics
+ team2: Clippers
+ Differential: 56 vs. 69
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 0
+msg: down by at least 10 pts 
+CheckMsg: down by at least 10 pts 
+
+_________________________________________
+
+subject: -13
+ team1: Celtics
+ team2: Clippers
+ Differential: 56 vs. 69
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 0
+msg: down by at least 10 pts 
+CheckMsg: down by at least 10 pts 
+
+_________________________________________
+
+subject: -13
+ team1: Celtics
+ team2: Clippers
+ Differential: 56 vs. 69
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 0
+msg: down by at least 10 pts 
+CheckMsg: down by at least 10 pts 
+
+_________________________________________
+
+subject: -13
+ team1: Celtics
+ team2: Clippers
+ Differential: 56 vs. 69
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 0
+msg: down by at least 10 pts 
+CheckMsg: down by at least 10 pts 
+
+_________________________________________
+
+subject: -13
+ team1: Celtics
+ team2: Clippers
+ Differential: 56 vs. 69
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 0
+msg: down by at least 10 pts 
+CheckMsg: down by at least 10 pts 
+
+_________________________________________
+
+subject: -13
+ team1: Celtics
+ team2: Clippers
+ Differential: 49 vs. 62
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 0
+msg: down by at least 10 pts 
+CheckMsg: down by at least 10 pts 
+
+_________________________________________
+
+subject: -13
+ team1: Celtics
+ team2: Clippers
+ Differential: 49 vs. 62
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 0
+msg: down by at least 10 pts 
+CheckMsg: down by at least 10 pts 
+
+_________________________________________
+
+subject: -11
+ team1: Celtics
+ team2: Clippers
+ Differential: 61 vs. 72
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 0
+msg: down by at least 10 pts 
+CheckMsg: down by at least 10 pts 
+
+_________________________________________
+
+subject: -11
+ team1: Celtics
+ team2: Clippers
+ Differential: 61 vs. 72
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 0
+msg: down by at least 10 pts 
+CheckMsg: down by at least 10 pts 
+
+_________________________________________
+
+subject: -11
+ team1: Celtics
+ team2: Clippers
+ Differential: 61 vs. 72
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 0
+msg: down by at least 10 pts 
+CheckMsg: down by at least 10 pts 
+
+_________________________________________
+
+subject: -11
+ team1: Celtics
+ team2: Clippers
+ Differential: 61 vs. 72
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 0
+msg: down by at least 10 pts 
+CheckMsg: down by at least 10 pts 
+
+_________________________________________
+
+subject: -11
+ team1: Celtics
+ team2: Clippers
+ Differential: 61 vs. 72
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 0
+msg: down by at least 10 pts 
+CheckMsg: down by at least 10 pts 
+
+_________________________________________
+
+subject: -11
+ team1: Celtics
+ team2: Clippers
+ Differential: 61 vs. 72
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 0
+msg: down by at least 10 pts 
+CheckMsg: down by at least 10 pts 
+
+_________________________________________
+
+subject: -11
+ team1: Celtics
+ team2: Clippers
+ Differential: 61 vs. 72
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 0
+msg: down by at least 10 pts 
+CheckMsg: down by at least 10 pts 
+
+_________________________________________
+

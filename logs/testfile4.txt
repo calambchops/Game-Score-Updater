@@ -1,0 +1,83 @@
+subject: 2
+ team1: Spurs
+ team2: Mavericks
+ Differential: 21 vs. 19
+********went into if msg != CheckMsg block sendmail********
+msg:  +/- 4 pts, it's close 
+CheckMsg: null*********************************************Outside Try
+GameIndex2: 2
+msg:  +/- 4 pts, it's close 
+CheckMsg:  +/- 4 pts, it's close 
+
+_________________________________________
+
+subject: 2
+ team1: Spurs
+ team2: Mavericks
+ Differential: 21 vs. 19
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  +/- 4 pts, it's close 
+CheckMsg:  +/- 4 pts, it's close 
+
+_________________________________________
+
+subject: 2
+ team1: Spurs
+ team2: Mavericks
+ Differential: 21 vs. 19
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  +/- 4 pts, it's close 
+CheckMsg:  +/- 4 pts, it's close 
+
+_________________________________________
+
+subject: 2
+ team1: Spurs
+ team2: Mavericks
+ Differential: 21 vs. 19
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  +/- 4 pts, it's close 
+CheckMsg:  +/- 4 pts, it's close 
+
+_________________________________________
+
+subject: 2
+ team1: Spurs
+ team2: Mavericks
+ Differential: 21 vs. 19
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  +/- 4 pts, it's close 
+CheckMsg:  +/- 4 pts, it's close 
+
+_________________________________________
+
+subject: 2
+ team1: Spurs
+ team2: Mavericks
+ Differential: 21 vs. 19
+____________
+ no updates 
+____________
+Outside Try
+GameIndex2: 2
+msg:  +/- 4 pts, it's close 
+CheckMsg:  +/- 4 pts, it's close 
+
+_________________________________________
+
